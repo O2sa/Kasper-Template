@@ -281,6 +281,8 @@ header nav .form i {
 @media (max-width: 767px) {
     .landing .text {
         width: 100%;
+        padding: 15px;
+        top: 62%;
     }
 
     .landing .text .content {
@@ -322,6 +324,11 @@ header nav .form i {
     display  : flex;
 }
 
+@media (max-width: 767px) {
+    .landing .bullets {
+        bottom : 5px;
+    }
+}
 .landing .bullets li {
     width        : 20px;
     height       : 20px;
