@@ -322,13 +322,11 @@ header nav .form i {
     transform: translateX(-50%);
     bottom   : 30px;
     display  : flex;
+    bottom : 5px;
+
 }
 
-@media (max-width: 767px) {
-    .landing .bullets {
-        bottom : 5px;
-    }
-}
+
 .landing .bullets li {
     width        : 20px;
     height       : 20px;
@@ -466,7 +464,7 @@ header nav .form i {
 .design .text ul li::before {
     font-family : 'Font Awesome 5 Free';
     content     : '\f108';
-    font-weight : 900px;
+    font-weight : 900;
     margin-right: 20px;
     position    : relative;
     top         : 1px;
