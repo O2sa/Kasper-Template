@@ -1,6 +1,4 @@
-Below is the content for your `leon-agency-template` README on GitHub:
 
----
 # Kasper Template
 
 Welcome to the Kasper Template repository! This is a simple website template built from the Leon PSD Agency Template design. The project is created using HTML and CSS, providing a modern and stylish layout for building agency websites.
